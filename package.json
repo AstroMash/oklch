@@ -1,6 +1,6 @@
 {
     "name": "oklch",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "OKLCH color space tools and picker for modern CSS",
     "main": "index.js",
     "keywords": [
