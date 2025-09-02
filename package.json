@@ -1,0 +1,20 @@
+{
+    "name": "oklch",
+    "version": "0.0.1",
+    "description": "OKLCH color space tools and picker for modern CSS",
+    "main": "index.js",
+    "keywords": [
+        "oklch",
+        "color",
+        "css",
+        "color-picker",
+        "color-space",
+        "css-color-4"
+    ],
+    "author": "Matt Shultz (AstroMash)",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/astromash/oklch"
+    }
+}
